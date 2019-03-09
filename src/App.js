@@ -6,6 +6,8 @@ class App extends Component {
   render() {
     return (
       <div className="App">
+      <h1> It is my First app that i created to test huroku </h1>
+      <h2>thank you so much huroku</h2>
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
